@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingridients": [
+    {
+      "item": "tutorialmod:modblock_test"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tutorialmod:moditem_test"
+  }
+}

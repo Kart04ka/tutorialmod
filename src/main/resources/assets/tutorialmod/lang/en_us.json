@@ -1,0 +1,11 @@
+{
+  "item.tutorialmod.moditem_test": "ModItem Test",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.modfood_test": "ModFood Test",
+  "item.tutorialmod.modfuel_test": "ModFuel Test",
+
+  "block.tutorialmod.modblock_test": "ModBlock Test",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+  "itemgroup.tutorialmod.modgroup_test": "ModGroup Test"
+}
