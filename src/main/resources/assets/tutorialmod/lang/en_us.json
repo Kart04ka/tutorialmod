@@ -7,5 +7,9 @@
   "block.tutorialmod.modblock_test": "ModBlock Test",
   "block.tutorialmod.magic_block": "Magic Block",
 
-  "itemgroup.tutorialmod.modgroup_test": "ModGroup Test"
+  "itemgroup.tutorialmod.modgroup_test": "ModGroup Test",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "Changes test item on §bdiamonds§r.",
+  "tooltip.tutorialmod.chisel.shift_down": "Changes blocks into their brick variants",
+  "tooltip.tutorialmod.chisel": "Hold shift to see."
 }
